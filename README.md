@@ -13,7 +13,9 @@ liste = [3, 5, 6, 2, 4, 10, 18, 13, 15, 1, 5, 7, 3, 4, 7, 8, 12, 2, 14, 4, 1, 19
 Ekran Çıktısı:
 
 En uzun tek sayı serisi: [13, 15, 1, 5, 7, 3]
+
 En uzun çift sayı serisi: [6, 2, 4, 10, 18]
+
 En uzun sıralı sayı serisi: [3, 7, 8, 9, 11, 15, 18]
 
 ### Soru2 :
