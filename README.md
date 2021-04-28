@@ -41,13 +41,23 @@ Yuakarıda belirtilen işlemleri gerçekleştiren ve ekran çıktılarını uygu
 liste = ["test", 22, (3, 3, 2 ,4), [4, 1, 7, 8, 3 ,10], {10, 9, 2}, "pass", {3, 4}, (8, 1, 4, 1, 8), "python", [1, 6, 8], 444, {1, 3, 4, 10}, 5554, {1:"bir", 2: "iki"}]
 
 **Ekran Çıktısı:**
+
 Num: 22, Type: Int, Equal: True
+
 Tuple: (3, 3, 2, 4), Type: Tuple, Palindrome: False,
+
 List: [4, 1, 7, 8, 3, 10], Type: List, Sorted_List: [1,3,4,7,8,10]
+
 Tuple: (8, 1, 4, 1, 8), Type: Tuple, Palindrome: True,
+
 List: [1, 6, 8], Type: List, Sorted_List: [1,6,8]
+
 Num: 444, Type: Int, Equal: True
+
 Num: 5554, Type: Int, Equal: False
+
 Type: <class 'dict'>, Not Operated
+
 Frequency: {'t':3, 'e': 1, 's': 3, 'p': 2, 'a': 1, 'y': 1, 'h': 1, 'o': 1, 'n': 1}
+
 Unique Set: [9,2,1]
